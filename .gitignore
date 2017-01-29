@@ -1,0 +1,4 @@
+.ghci
+dist/*
+data/*
+site_key.txt
